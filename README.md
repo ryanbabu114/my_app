@@ -1,16 +1,12 @@
 # my_app
 
-A new Flutter project.
+This program is for login page testing using supabase.
 
-## Getting Started
+select code and copy https://github.com/ryanbabu114/my_app.git![image](https://github.com/user-attachments/assets/a637c89d-e342-4b66-bf91-c2c08ebfdcb3)
+![image](https://github.com/user-attachments/assets/a113a576-755b-4392-8405-9b1de396b0b6)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+to clone, open command prompt and type 'git clone https://github.com/ryanbabu114/my_app.git' and press enter
+locate my_app in c drive\users\user_name\my_app
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
